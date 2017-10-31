@@ -1,36 +1,39 @@
 /* Nav */
-._4f7n, ._5q5b .fbNubFlyoutTitlebar {
-    background: #444 !important;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2) !important;
+._4f7n,
+._5q5b .fbNubFlyoutTitlebar {
+  background: #444 !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2) !important;
 }
 
 /* Nav Icon Buttons */
 ._3nzl a.jewelButton {
-    background-position: 0 -566px !important;
+  background-position: 0 -566px !important;
 }
 
 ._4962._1z4y a.jewelButton {
-    background-position: 0 -374px !important;
+  background-position: 0 -374px !important;
 }
 
 ._4xi2.east a.jewelButton {
-    background-position: 0 -948px !important;
+  background-position: 0 -948px !important;
 }
 
 ._59fb {
-    background-position: -34px -423px !important;
+  background-position: -34px -423px !important;
 }
 
 ._50__ {
-    background-position: -190px -153px;
+  background-position: -190px -153px;
 }
 
 /* Chat Bubbles */
 
-._1nc6 ._5w1r, ._1nc6 ._5w1r:before {
-    background: #eee !important;
+._1nc6 ._5w1r,
+._1nc6 ._5w1r::before {
+  background: #eee !important;
 }
 
-._1nc7 ._5w1r, ._1nc7 ._5w1r:before {
-    background: #fff !important;
+._1nc7 ._5w1r,
+._1nc7 ._5w1r::before {
+  background: #fff !important;
 }
